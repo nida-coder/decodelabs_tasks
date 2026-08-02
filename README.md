@@ -65,7 +65,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](images/dashboard-preview_2.png)
+![Dashboard](images/dashboard-previe_2.png)
 
 ### 🔐 Login Page
 ![Login](images/login-preview.png)
