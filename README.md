@@ -65,10 +65,10 @@
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](images/dashboard-preview 2.png)
+![Dashboard](images/dashboard-preview2.png)
 
 ### 🔐 Login Page
-![Login](images/login.png)
+![Login](images/login-preview.png)
 
 ### 📅 Timetable View
 ![Timetable](images/timetable-preview.png)
